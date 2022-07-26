@@ -33,6 +33,11 @@
                     "frequency": 1702500000,
                     "mode": 7
                 },
+                "Arktika-M1 Raw Data Link (RDAS)": {
+                    "bandwidth": 0,
+                    "frequency": 7865000000,
+                    "mode": 7
+                },
                 "MetOp-C HRPT": {
                     "bandwidth": 0,
                     "frequency": 1701300000,

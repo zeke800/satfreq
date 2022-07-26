@@ -6,6 +6,7 @@ satfreq; #58A6FF
 1544500000; NOAA-19 S&R TRSP; Demod Off; 0; satfreq
 1698000000; NOAA-19 HRPT; Demod Off; 0; satfreq
 1702500000; NOAA-19 GAC; Demod Off; 0; satfreq
+7865000000; Arktika-M1 Raw Data Link (RDAS); Demod Off; 0; satfreq
 1701300000; MetOp-C HRPT; Demod Off; 0; satfreq
 1698400000; SARAL DCS; Demod Off; 0; satfreq
 1693000000; Elektro-L N2 GGAK; Demod Off; 0; satfreq
