@@ -299,6 +299,33 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>GOES-17 Raw Data Link</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>8220000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-17 HRIT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1694100000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-17 Telemetry</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1693000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>Yunhai 1 Encrypted data</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1704000000</Frequency>
@@ -365,6 +392,33 @@
 		<Name>ANGELS DCS</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1698400000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-16 Raw Data Link</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>8220000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-16 HRIT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1694100000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-16 Telemetry</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1693000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>

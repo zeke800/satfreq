@@ -33,6 +33,9 @@ satfreq; #58A6FF
 10503000000; Es'Hail-2 WB TRSP; Demod Off; 0; satfreq
 1687500000; FengYun-2H S-VISSR; Demod Off; 0; satfreq
 1702500000; FengYun-2H TLM; Demod Off; 0; satfreq
+8220000000; GOES-17 Raw Data Link; Demod Off; 0; satfreq
+1694100000; GOES-17 HRIT; Demod Off; 0; satfreq
+1693000000; GOES-17 Telemetry; Demod Off; 0; satfreq
 1704000000; Yunhai 1 Encrypted data; Demod Off; 0; satfreq
 1701400000; FengYun-3C HRPT; Demod Off; 0; satfreq
 1676000000; GOES-13 Imager SD; Demod Off; 0; satfreq
@@ -41,6 +44,9 @@ satfreq; #58A6FF
 1544500000; Meteor-M N2-2 S&R TRSP; Demod Off; 0; satfreq
 1700000000; Meteor-M N2-2 HRPT; Demod Off; 0; satfreq
 1698400000; ANGELS DCS; Demod Off; 0; satfreq
+8220000000; GOES-16 Raw Data Link; Demod Off; 0; satfreq
+1694100000; GOES-16 HRIT; Demod Off; 0; satfreq
+1693000000; GOES-16 Telemetry; Demod Off; 0; satfreq
 2217500000; CloudSat CPR; Demod Off; 0; satfreq
 137350000; NOAA-15 DSB; Demod Off; 0; satfreq
 137620000; NOAA-15 APT; Demod Off; 0; satfreq

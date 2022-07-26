@@ -153,6 +153,21 @@
                     "frequency": 1702500000,
                     "mode": 7
                 },
+                "GOES-17 Raw Data Link": {
+                    "bandwidth": 0,
+                    "frequency": 8220000000,
+                    "mode": 7
+                },
+                "GOES-17 HRIT": {
+                    "bandwidth": 0,
+                    "frequency": 1694100000,
+                    "mode": 7
+                },
+                "GOES-17 Telemetry": {
+                    "bandwidth": 0,
+                    "frequency": 1693000000,
+                    "mode": 7
+                },
                 "Yunhai 1 Encrypted data": {
                     "bandwidth": 0,
                     "frequency": 1704000000,
@@ -191,6 +206,21 @@
                 "ANGELS DCS": {
                     "bandwidth": 0,
                     "frequency": 1698400000,
+                    "mode": 7
+                },
+                "GOES-16 Raw Data Link": {
+                    "bandwidth": 0,
+                    "frequency": 8220000000,
+                    "mode": 7
+                },
+                "GOES-16 HRIT": {
+                    "bandwidth": 0,
+                    "frequency": 1694100000,
+                    "mode": 7
+                },
+                "GOES-16 Telemetry": {
+                    "bandwidth": 0,
+                    "frequency": 1693000000,
                     "mode": 7
                 },
                 "CloudSat CPR": {
